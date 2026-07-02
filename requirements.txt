@@ -6,3 +6,4 @@ numpy
 pandas
 Pillow
 h5py
+huggingface_hub
