@@ -7,7 +7,7 @@ Users can upload a noisy, brightened, or darkened image and restore it using tra
 ## Live Demo
 
 Hugging Face Space:  
-`https://huggingface.co/spaces/dulalajahnavi10/Image-Denoising-Dashboard`
+"https://huggingface.co/spaces/dulalajahnavi10/Image-Denoising-Dashboard"
 
 ## Models Used
 
