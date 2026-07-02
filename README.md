@@ -159,6 +159,3 @@ huggingface_hub
 
 Jahnavi Dulala
 
-## Author
-
-Jahnavi Dulala
