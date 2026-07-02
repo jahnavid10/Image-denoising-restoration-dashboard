@@ -1,13 +1,30 @@
-venv/
+# Large model files
+model_files/*.h5
+model_files/*.keras
+model_files/*.pb
+model_files/*.ckpt
+model_files/*.onnx
+
+# Keep the model_files folder
+!model_files/.gitkeep
+
+# Python
 __pycache__/
 *.pyc
 
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Temporary outputs
 outputs/
 temp_images/
+enhanced_*.jpg
+enhanced_*.png
+temp_input.jpg
 
-*.jpg
-*.jpeg
-*.png
-
+# System files
 .DS_Store
+Thumbs.db
 .env
