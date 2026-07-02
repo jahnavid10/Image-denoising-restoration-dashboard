@@ -1,0 +1,8 @@
+gradio
+tensorflow-cpu==2.16.1
+keras==3.3.3
+opencv-python-headless
+numpy
+pandas
+Pillow
+h5py
