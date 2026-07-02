@@ -2,7 +2,7 @@ from pathlib import Path
 from huggingface_hub import hf_hub_download
 
 
-MODEL_REPO_ID = "YOUR_HUGGINGFACE_USERNAME/YOUR_MODEL_REPO_NAME"
+MODEL_REPO_ID = "dulalajahnavi10/Image-Denoising-Dashboard"
 
 MODEL_FILES = [
     "autoencoder.h5",
